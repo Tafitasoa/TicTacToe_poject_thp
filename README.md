@@ -25,17 +25,17 @@ Une partie nulle :
 
 
 # Comment se servir de ce programme ?
-1. Tout d'abords, commencer par **Cloné** le dossier ou le **Téléchargé**
-2. Ensuite, accédez vous  au dossier **Tic_Tac_Toe** avec le terminal.
+1. Tout d'abords, commencer par **Cloné** le dossier
+2. Ensuite, accédez vous  au dossier **TicTacToe_project** avec le terminal.
 3. Enfin, 
 ```
 
-ruby tic_tac_toe.rb  # + entré
+ruby tictactoe.rb
 
 ```
 ###  Et vous allez, à deux, vous confronté pour savoir qui est le meilleur ( dans le terminal)
 
- 1. Le jeu est à **2 players** 
- 2. N'hesitez pas faire **q** + **entré** si jamais vous voulez quiter.
+ 1. Le jeu doit etre à **2 joueurs**
 
 #  Savourer!
+#  THP!
