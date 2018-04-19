@@ -27,13 +27,15 @@ Une partie nulle :
 # Comment se servir de ce programme ?
 1. Tout d'abords, commencer par **Cloné** le dossier
 2. Ensuite, accédez vous  au dossier **TicTacToe_project** avec le terminal.
-3. Enfin, 
+3. Puis accédez au dossier **TicTacToe_project** avec le terminal.
+
+4. Enfin, 
 ```
 
 ruby tictactoe.rb
 
 ```
-###  Et vous allez, à deux, vous confronté pour savoir qui est le meilleur ( dans le terminal)
+###  Et vous allez entrez votre pseudo chaqu'un, à deux, vous confronté pour savoir qui est le meilleur ( dans le terminal)
 
  1. Le jeu doit etre à **2 joueurs**
 
